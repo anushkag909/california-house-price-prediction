@@ -38,6 +38,18 @@ The trained Machine Learning model predicts California house prices based on hou
 
 Anushka G
 
-## Author
+## 📸 Project Screenshots
+
+### Feature Distribution Histograms
+![Feature Distribution Histograms](Feature_Distribution_Histograms.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](Correlation_Heatmap(1).png)
+
+### Random Forest Feature Importance
+![Random Forest Feature Importance](Random_Forest_Feature_Importance.png)
+
+### Prediction vs Actual House Prices
+![Prediction vs Actual House Prices](Prediction_vs_Actual_House_Prices.png)
 
 Anushka G
